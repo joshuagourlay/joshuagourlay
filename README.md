@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Joshua and I am a backend Software Engineer at heart
 
+- 🔭 I’m currently working on using the GPT4 API to perform sentiment analysis on scraped news articles to act as a starting point to identify stocks who may trend upwards in order to achieve reduced risk with a market maker trading strategy
+- 🌱 I’m currently learning E2E development with AWS Lambda and Apache Kafka 
+- 👯 I’m looking to collaborate on a project where individuals within organizations volunteer to mentor and connect with individuals of similar disabilities 
+- 🤔 I’m looking for help with maximizing my potential and using my life experiences to bring unique insights to projects and teams
+- 💬 Ask me about the project ideas I'm most passionate about
+- 📫 How to reach me: joshua135@usf.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am an activist and ally of neurodivergent individuals and am passionate about creating solutions that advance their personal and professional development
 <!--
 **joshuagourlay/joshuagourlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
