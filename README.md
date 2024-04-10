@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Joshua and I am a backend Software Engineer at heart
 
-- 🔭 I’m currently working on using the GPT4 API to perform sentiment analysis on scraped news articles to act as a starting point to identify stocks who may trend upwards in order to achieve reduced risk with a market maker trading strategy
-- 🌱 I’m currently learning E2E development with AWS Lambda and Apache Kafka 
+- 🔭 I’m currently working on using WebRTC to build an app where I connect people with ADHD in a way that allows them to utilize body doubling to complete daily tasks
+- 🌱 I’m currently learning E2E development and advanced usages of the Python programming language. I am doing this while I complete my python peer leading duties at USF
 - 👯 I’m looking to collaborate on a project where individuals within organizations volunteer to mentor and connect with individuals of similar disabilities 
 - 🤔 I’m looking for help with maximizing my potential and using my life experiences to bring unique insights to projects and teams
 - 💬 Ask me about the project ideas I'm most passionate about
